@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">UTSMobile</string>
+
+
+    <integer-array name="category_photo">
+        <item>@drawable/yoga</item>
+        <item>@drawable/gym</item>
+        <item>@drawable/cardio</item>
+        <item>@drawable/stretch</item>
+        <item>@drawable/yoga</item>
+    </integer-array>
+
+    <string-array name="category_title">
+        <item>Yoga</item>
+        <item>Gym</item>
+        <item>Cardio</item>
+        <item>Stretch</item>
+        <item>Full Body</item>
+    </string-array>
+
+    <string-array name="goal_title">
+        <item>Loose Weight</item>
+        <item>Gain Weight</item>
+        <item>Body Building</item>
+        <item>Healthy</item>
+    </string-array>
+
+
+
+</resources>
